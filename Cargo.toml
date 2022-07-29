@@ -2,6 +2,9 @@
 name = "box-iter"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/Aandreba/box-iter"
+keywords = ["box", "iter", "into-iter"]
+categories = ["no-std", "rust-patterns"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
