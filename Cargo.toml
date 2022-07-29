@@ -2,6 +2,8 @@
 name = "box-iter"
 version = "0.1.0"
 edition = "2021"
+description = "Simple crate that provides an iterator for `Box<[T]>` types."
+license = "MIT"
 repository = "https://github.com/Aandreba/box-iter"
 keywords = ["box", "iter", "into-iter"]
 categories = ["no-std", "rust-patterns"]
